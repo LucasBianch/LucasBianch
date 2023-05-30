@@ -1,4 +1,4 @@
-### Olá a todos. Eu sou o Lucas 👋
+### Olá. Eu sou o Lucas 👋
 <br/>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasbianch/)
