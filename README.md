@@ -26,7 +26,7 @@
 
 ### Quem sou Eu?
 
-Meu nome é Lucas Roberto Bianchini e tenho 31 anos. Atualmente estou cursando o 2º Semestre do curso de Desenvolvimento de Software Multiplataforma na Fatec de Matão.💻
+Meu nome é Lucas Roberto Bianchini e tenho 31 anos. Atualmente estou cursando o 3º Semestre do curso de Desenvolvimento de Software Multiplataforma na Fatec de Matão.💻
 
 Antes disso, concluí minha graduação em Engenharia Mecânica, o que me proporcionou uma base sólida em resolução de problemas e uma mentalidade analítica, assim como, ter um bom relacionamento interpessoal. Uma das coisas que mais me motiva é aprender constantemente e enfrentar novos desafios. 
 
